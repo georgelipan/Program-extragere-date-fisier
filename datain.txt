@@ -1,0 +1,4 @@
+Botosani 5 7600
+Iasi 7 10500
+Bacau 5 3100
+Suceava 7 1504
